@@ -1,0 +1,13 @@
+env/
+.env
+files/
+.cache/
+.streamlit
+secrets.yaml
+ffmpeg/
+/ffmpeg
+doc/
+bin/
+/bin
+/doc
+
